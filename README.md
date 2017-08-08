@@ -2,7 +2,7 @@
 
 A unit test generator.
 
-## Description
+## How to use it
 
 "Class" and "method" are used to indicate in which method and class the unit test is made.
 To have an ArrayList as a result, you must check the "ArrayList" box and choose the type of the ArrayList in "Contains".
