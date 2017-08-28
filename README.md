@@ -2,6 +2,8 @@
 
 A unit test generator.
 
+[Download](https://github.com/Guduche/UTGenerator/releases)
+
 ## How to use it
 
 "Class" and "method" are used to indicate in which method and class the unit test is made.
