@@ -2,6 +2,8 @@
 
 Un générateur de tests unitaires.
 
+[Télécharger](https://github.com/Guduche/UTGenerator/releases)
+
 ## Comment l'utiliser
 
 "Classe" et "méthode" permettent d'indiquer de quelle méthode est le test unitaire et dans quelle classe il se trouve.
