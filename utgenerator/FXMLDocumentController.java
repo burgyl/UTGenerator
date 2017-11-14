@@ -21,7 +21,7 @@ import utgenerator.wrk.WrkTwoParameters;
  * This is the main controller.
  *
  * @author Guduche
- * @version 1.0.0
+ * @version 1.0.1
  */
 public class FXMLDocumentController implements Initializable {
 
@@ -321,7 +321,7 @@ public class FXMLDocumentController implements Initializable {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle("About...");
         alert.setHeaderText(null);
-        alert.setContentText("Author: Guduche\nVersion: 1.0.0");
+        alert.setContentText("Author: Guduche\nVersion: 1.0.1");
         alert.getButtonTypes().clear();
         ButtonType boutonOk = new ButtonType("Ok");
         alert.getButtonTypes().add(boutonOk);
