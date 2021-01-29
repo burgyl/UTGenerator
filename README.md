@@ -2,7 +2,7 @@
 
 A unit test generator.
 
-[Download](https://github.com/Guduche/UTGenerator/releases)
+[Download](https://github.com/burgyl/UTGenerator/releases)
 
 ## How to use it
 
